@@ -1,5 +1,7 @@
 # 💳 Detecção de Fraudes em Transações Financeiras
 
+> 🚀 **Projeto prático desenvolvido no bootcamp Bradesco - GenAI, Dados & Cyber**
+
 Projeto de Machine Learning focado em identificar transações de cartão de crédito fraudulentas, lidando com o desafio do extremo desbalanceamento de dados e priorizando a taxa de detecção (Recall).
 
 ---
